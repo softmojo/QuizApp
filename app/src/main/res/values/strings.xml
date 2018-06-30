@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="header">Test your knowledge !!!</string>
+    <string name="question1">Question 1</string>
+    <string name="question_1">Which horoscope sign is represented by a lion?</string>
+    <string name="question2">Question 2</string>
+    <string name="question_2">Who painted the Mona Lisa?</string>
+    <string name="question3">Question 3</string>
+    <string name="question_3">Which wild animals gather in groups known as prides?</string>
+    <string name="hint3">a pride of _________________________</string>
+    <string name="question4">Question 4</string>
+    <string name="question_4">a thermometer measures ________________ ?</string>
+    <string name="question5">Question 5</string>
+    <string name="question_5">Which of the following companies produce make-up"</string>
+    <string name="question6">Question 6</string>
+    <string name="question_6">Which of the following countries can be found in Africa"</string>
+    <string name="radio_button1">Libra</string>
+    <string name="radio_button2">Cancer</string>
+    <string name="radio_button3">Leo</string>
+    <string name="radio_button4">Aries</string>
+    <string name="radio_button5">da Vinci</string>
+    <string name="radio_button6">Renoir</string>
+    <string name="radio_button7">Monet</string>
+    <string name="radio_button8">Van Gogh</string>
+    <string name="checkbox_answer1">L\'Oreal</string>
+    <string name="checkbox_answer2">Revlon</string>
+    <string name="checkbox_option1">Toyota</string>
+    <string name="checkbox_option2">Apple</string>
+    <string name="checkbox_answer3">Nigeria</string>
+    <string name="checkbox_answer4">Angola</string>
+    <string name="checkbox_option3">India</string>
+    <string name="checkbox_option4">Turkey</string>
+    <string name="submit_Button">submit</string>
+</resources>
